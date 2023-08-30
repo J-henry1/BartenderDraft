@@ -1,0 +1,16 @@
+.navbar {
+    background-image: url('../Images/Navbar.jpg');
+    background-size: cover;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    color: rgb(58, 115, 11);
+    font-size: xx-large;
+    font-family:'Courier New', Courier, monospace;
+   
+    
+}
+
+body{
+    margin: 0;
+}
