@@ -17,6 +17,7 @@ function App() {
                 {/* Define your routes */}
                 <Route path="/OrderQ" element={<OrderQ />} />
                 <Route path="/Menu" element={<Menu />} />
+                <Route path="/Home" element={<Home />} />
             </Routes>
         </div>
     );

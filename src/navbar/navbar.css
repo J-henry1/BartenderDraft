@@ -3,14 +3,32 @@
     background-size: cover;
     height: 180px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     color: rgb(58, 115, 11);
     font-size: xx-large;
     font-family:'Courier New', Courier, monospace;
-   
-    
+
 }
 
 body{
     margin: 0;
 }
+
+
+.button-home{
+    
+    background-color: rgb(58, 115, 11);
+    margin-bottom: 5%;
+    margin-left: 80%;
+   
+} 
+
+.links{
+
+    color: white;
+    align-items: left;
+}
+
+
+
